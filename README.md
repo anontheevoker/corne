@@ -1,1 +1,1 @@
-ZMK files for my 36-key corne keyboard
+ZMK files for my corne keyboard (crkbd) with NiceNano v2 controllers
