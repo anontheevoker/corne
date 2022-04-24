@@ -63,7 +63,7 @@
                 layer_3 {
                         bindings = <
 //,---------------------------------------------------------.                    ,----------------------------------------------------------.
-   &none    &kp EXCL  &kp AT    &kp HASH  &kp DLR  &kp PRCNT                      &kp CARET &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &none
+   &none    &kp EXCL  &kp AT    &kp HASH  &kp DLLR &kp PRCNT                      &kp CARET &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &none
 //|--------+---------+---------+---------+--------+---------|                    |---------+---------+---------+---------+---------+--------|
    &none    &kp MINUS &kp EQUAL &kp PLUS  &kp PIPE &trans                         &trans    &kp BSLH  &kp LBRC  &kp RBRC  &kp SQT   &none
 //|--------+---------+---------+---------+--------+---------|                    |---------+---------+---------+---------+---------+--------|
